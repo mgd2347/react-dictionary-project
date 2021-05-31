@@ -1,13 +1,13 @@
 .App {
+  color: #282c34;  
   text-align: center;
 }
 
 .App-header {
-  color: white;  
-  font-size: 60px;
+  font-size: 40px;
   margin: 30px auto;
 }
 
 .App-footer {
-  color: white;
+  margin: 30px auto;
 }
