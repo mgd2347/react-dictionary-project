@@ -3,9 +3,9 @@
 }
 
 .Meaning .part-of-speech {
-  opacity: 50%;
+  color: slategrey;
 }
 
 .Meaning .example {
-  opacity: 90%;
+  color: slategrey;
 }
