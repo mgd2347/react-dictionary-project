@@ -1,0 +1,11 @@
+.Meaning {
+  margin: 30px auto;
+}
+
+.Meaning .part-of-speech {
+  opacity: 50%;
+}
+
+.Meaning .example {
+  opacity: 90%;
+}
